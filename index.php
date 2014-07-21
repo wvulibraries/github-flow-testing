@@ -16,7 +16,7 @@ include "foo.php";
 	</p>
 
 	<ul>
-		<li>Add a PHP file to this project, include it, print the results below</li>
+		<li><strike>Add a PHP file to this project, include it, print the results below</strike></li>
 		<li>2 people make changes to both files, avoid conflicts</li>
 		<li>2 people make changes to included PHP file, intentionally create a conflict</li>
 		<li>1 person adds a new feature, 1 person changes directory structure.</li>
