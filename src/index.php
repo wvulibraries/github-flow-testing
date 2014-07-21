@@ -29,6 +29,8 @@ include "foo.php";
 	<h2>Testing Area</h2>
 
 	<?php print $foo; ?>
+	<br />
+	<?php print $bar; ?>
 
 </body>
 
