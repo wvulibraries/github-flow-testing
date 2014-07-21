@@ -1,5 +1,7 @@
 <?php
 
+include "foo.php";
+
 ?>
 <html>
 
@@ -23,6 +25,8 @@
 	<hr />
 
 	<h2>Testing Area</h2>
+
+	<?php print $foo; ?>
 
 </body>
 
