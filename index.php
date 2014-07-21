@@ -24,6 +24,8 @@ include "foo.php";
 
 	<hr />
 
+	<p>David's new HTML</p>
+
 	<h2>Testing Area</h2>
 
 	<?php print $foo; ?>
